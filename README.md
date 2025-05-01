@@ -1,6 +1,6 @@
 ---
 
-Hi, Im Daniel Hart
+ Hi, Im Daniel Hart
 
 - Age: 16  
 - Location: Bristol, United Kingdom  
